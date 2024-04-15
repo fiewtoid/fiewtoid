@@ -1,5 +1,11 @@
-### Hi there 👋
+# Welcome! 🙋🏼‍♂️
+### 🚧 Currently under construction 🚧
 
+
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+![Vim](https://img.shields.io/badge/Vim-black?style=flat-square&logo=vim&logoColor=green)
 <!--
 **fiewtoid/fiewtoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
